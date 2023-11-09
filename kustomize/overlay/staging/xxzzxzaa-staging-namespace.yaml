@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: xxzzxzaa-staging
+  labels:
+    environment-id: env_06a26754-133c-49cc-bec3-3d036b749552
+    project-id: project_abc76706-f783-48ab-852d-5015004ee7e9
+    project-name: xxzzxzaa
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
